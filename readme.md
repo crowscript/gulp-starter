@@ -197,7 +197,7 @@ This toolkit is based on the work of the following fine people & projects.
 - [Sass Guidline](https://sass-guidelin.es/#architecture)
 - [Udacity](https://classroom.udacity.com/courses/ud777)
 - [Mina Markham](https://github.com/minamarkham)
-- [Medium/@meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- [Medium/@meakaakka Readme](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - [Choose a License](https://choosealicense.com/)
 - [Embedded Artistry](https://embeddedartistry.com/blog/2017/11/20/your-readme-probably-sucks-its-time-to-make-it-better)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
@@ -208,6 +208,8 @@ This toolkit is based on the work of the following fine people & projects.
 - [Good commit message](https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/)
 - [Conventional changelog](https://github.com/conventional-changelog/standard-version)
 - [Auto changelog](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
+- [Ericportis srcset sizes](https://ericportis.com/posts/2014/srcset-sizes/)
+- [Medium/@woutervanderzee responsive images](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948)
 
 Provide proper credits, shoutouts, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
 
