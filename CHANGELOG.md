@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.1](https://github.com/crowscript/gulp-starter/compare/v1.2.0...v1.2.1) (2021-03-10)
+
+
+### Documentation
+
+* Add Conventional Commits readMe ([0d9d813](https://github.com/crowscript/gulp-starter/commit/0d9d813e10eb98d0b5a72071e9a06bbd8d1d6af0))
+
 ## 1.2.0 (2021-03-10)
 
 
