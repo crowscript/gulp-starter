@@ -155,27 +155,7 @@ CSS giving class name method - [CSS color Name](https://chir.ag/projects/name-th
 [screen-reader-text](https://make.wordpress.org/accessibility/handbook/markup/the-css-class-screen-reader-text/)
 
 ## Changelog
-The README can also include a trailing list of changes for recent versions.
-Example:
-
-### v0.1.1
-**Added:**
-	- Explanation of the recommended reverse chronological release ordering.
-**Changed:**
-	- Refer to a "change log" instead of a "CHANGELOG" throughout the site
-to differentiate between the file and the purpose of the file — the
-logging of changes.
-**Removed:**
-	- Remove empty sections from CHANGELOG, they occupy too much space and
-create too much noise in the file. People will have to assume that the
-missing sections were intentionally left out because they contained no
-notable changes.
-
-### v0.1.0
-**Added:**
-	- CNAME file to enable GitHub Pages custom domain
-	- README now contains answers to common questions about CHANGELOGs
-	- Good examples and basic guidelines, including proper date formatting.
+All notable changes to this project will be documented in [CHANGELOG](CHANGELOG) file.
 
 ## Authors
 ---
