@@ -4,6 +4,7 @@ One Paragraph of project description goes here.
 
 ## Next Steps
 - The Golden Ratio and REMS [CSS tricks](https://css-tricks.com/rems-ems/#comment-1540876)
+- [Husky](https://typicode.github.io/husky/#/)
 
 ## Table of Contents
 ---
@@ -92,9 +93,9 @@ These instructions will get you a copy of the project up and running on your loc
 - [Calculate Aspect Ratio](https://calculateaspectratio.com/)
 
 ### Google Extensions
-- [glines](https://chrome.google.com/webstore/detail/glines-chrome-extension/hplhjkmgokoamhihlfgaddljbippfeje)
+- [Glines](https://chrome.google.com/webstore/detail/glines-chrome-extension/hplhjkmgokoamhihlfgaddljbippfeje)
 - [My Ruler](https://chrome.google.com/webstore/detail/my-ruler/iobnfmmhgefpdgcdpocaceafmoocljnb)
-- [headingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+- [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 - [Live editor for CSS, Less & Sass](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol)
 - [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
 - [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
@@ -148,10 +149,10 @@ h2 {
 CSS giving class name method - [CSS color Name](https://chir.ag/projects/name-that-color/#6195ED) 
 
 ### ASCII 
-[ascii-code](https://www.ascii-code.com/)
+[ASCII code](https://www.ascii-code.com/)
 
 ### screen-reader-text
-[screen-reader-text](https://make.wordpress.org/accessibility/handbook/markup/the-css-class-screen-reader-text/)
+[Screen reader text](https://make.wordpress.org/accessibility/handbook/markup/the-css-class-screen-reader-text/)
 
 ## Changelog
 All notable changes to this project will be documented in [CHANGELOG](CHANGELOG.md) file.
@@ -176,16 +177,16 @@ This toolkit is based on the work of the following fine people & projects.
 - [Sass Guidline](https://sass-guidelin.es/#architecture)
 - [Udacity](https://classroom.udacity.com/courses/ud777)
 - [Mina Markham](https://github.com/minamarkham)
-- [medium.com/@meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- [Medium/@meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - [Choose a License](https://choosealicense.com/)
 - [Embedded Artistry](https://embeddedartistry.com/blog/2017/11/20/your-readme-probably-sucks-its-time-to-make-it-better)
 - [Coder Coder](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
-- [glennmccomb.com](https://glennmccomb.com/articles/useful-sass-scss-media-query-mixins-for-bootstrap/)
-- [semantic version](https://semver.org/)
-- [keep a changelog](https://keepachangelog.com/en/1.0.0/)
-- [dillinger](https://dillinger.io/)
-- [good-commit-message](https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/)
-- [conventional-changelog](https://github.com/conventional-changelog/standard-version)
+- [Glennmccomb](https://glennmccomb.com/articles/useful-sass-scss-media-query-mixins-for-bootstrap/)
+- [Semantic version](https://semver.org/)
+- [Keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [Dillinger](https://dillinger.io/)
+- [Good commit message](https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/)
+- [Conventional changelog](https://github.com/conventional-changelog/standard-version)
 - [Auto changelog](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
 
 Provide proper credits, shoutouts, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
