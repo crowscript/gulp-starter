@@ -64,6 +64,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [Sass Guidline](https://sass-guidelin.es/#architecture)
 - [Gulp](https://gulpjs.com/)
 - [Flexboxgrid](http://flexboxgrid.com/)
+- [Conventionalcommits](https://www.conventionalcommits.org/)
 
 ## Modifications
 ### Flexboxgrid
@@ -139,6 +140,25 @@ h2 {
 `@@include('./partials/head.html')`
 - [npm package gulp-file-include](https://dev.to/caiojhonny/html-includes-with-gulp-js-2def)
 - [Blog HTML includes with Gulp.js](https://dev.to/caiojhonny/html-includes-with-gulp-js-2def)
+
+### Conventional Commits
+1. Run `git add .` 
+2.  `git commit -m "feat: Automatic setup image source sizes"` - *Example* 
+3. Run `npm run release` 
+4. Run `git push`
+
+Types of commit: 
+- `feat:` Add a new feature (equivalent to a MINOR in [Semantic Versioning](https://semver.org/)).
+- `fix:` Fix a bug (equivalent to a PATCH in [Semantic Versioning](https://semver.org/)).
+- `docs:` Documentation changes.
+- `style:` Code style change (semicolon, indentation...).
+- `refactor:` Refactor code without changing public API.
+- `perf:` Update code performances.
+- `test:` Add test to an existing feature.
+- `chore:` Update something without impacting the user (ex: bump a dependency in package.json).
+
+[Conventional Commits](https://www.conventionalcommits.org/)
+[Blog Post Docs](https://lukasznojek.com/blog/2020/03/automatic-changelog-md-or-commitizer-and-standard-version-family/)
 
 ## Hint
 ### Fonts
