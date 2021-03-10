@@ -3,7 +3,6 @@
 One Paragraph of project description goes here.
 
 ## Next Steps
-- [Auto changelog](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/#:~:text=A%20changelog%20is%20a%20file,%2C%20improved%2C%20and%20removed%20features.)
 - The Golden Ratio and REMS [CSS tricks](https://css-tricks.com/rems-ems/#comment-1540876)
 
 ## Table of Contents
@@ -155,7 +154,7 @@ CSS giving class name method - [CSS color Name](https://chir.ag/projects/name-th
 [screen-reader-text](https://make.wordpress.org/accessibility/handbook/markup/the-css-class-screen-reader-text/)
 
 ## Changelog
-All notable changes to this project will be documented in [CHANGELOG](CHANGELOG) file.
+All notable changes to this project will be documented in [CHANGELOG](CHANGELOG.md) file.
 
 ## Authors
 ---
@@ -187,6 +186,7 @@ This toolkit is based on the work of the following fine people & projects.
 - [dillinger](https://dillinger.io/)
 - [good-commit-message](https://herewecode.io/blog/a-beginners-guide-to-git-how-to-write-a-good-commit-message/)
 - [conventional-changelog](https://github.com/conventional-changelog/standard-version)
+- [Auto changelog](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
 
 Provide proper credits, shoutouts, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
 
