@@ -1,0 +1,27 @@
+# For more information about the properties used in
+# this file, please see the EditorConfig documentation:
+# https://editorconfig.org/
+# https://core.trac.wordpress.org/browser/trunk/.editorconfig
+
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = tab
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = false
+
+[*.{yml,yaml,json}]
+indent_style = space
+indent_size = 2
+
+[{*.txt,wp-config-sample.php}]
+end_of_line = crlf
+
+[*.scss]
+indent_size = 2

@@ -1,0 +1,43 @@
+{
+  "name": "gulp-frontend-starter-for-wp",
+  "version": "1.0.0",
+  "description": "This is a starter for Frontend building before convert to Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "browser-sync": "^2.26.13",
+    "cross-env": "^7.0.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^1.4.0",
+    "postcss": "^8.1.2",
+    "standard-version": "^9.1.1"
+  },
+  "dependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version",
+      "last 1 ie version"
+    ]
+  }
+}

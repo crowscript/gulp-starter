@@ -1,0 +1,25 @@
+/* ==== Variables ==== */
+
+// Colors
+$white:               #fff;
+$gray-light:          #f3f3f3;
+$gray-dark:           #333447;
+$black:               #000;
+$blue:                #3282b8;
+
+$primary:               $blue;
+$secundary:             $gray-light;
+
+$body-bg:               $white;
+$text-color:            $gray-dark;
+$link-color:            $primary;
+$link-hover-color:      darken($link-color, 15%);
+
+// Breakpoint Sizes
+$breakpoints: (
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+	xxl: 1400px
+);

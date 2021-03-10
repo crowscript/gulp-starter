@@ -1,0 +1,86 @@
+/* ====  Global style ==== */
+
+html {
+	box-sizing: border-box;
+	font-size: $font-size-root;
+	height: 100%;
+	width: 100%;
+	line-height: $line-height-paragraph;
+	scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body {
+	font-size: 100%;
+	font-family: $font-family-default;
+	height: 100%;
+	width: 100%;
+	color: $text-color;
+
+	@include breakpoint-between(sm, md) {
+		background-color: $blue;
+	}
+}
+
+:focus {
+	outline: thin dotted $black;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+	li {
+		display: inline-block;
+		margin: 0 0.625em;
+	}
+}
+
+a {
+	color: $link-color;
+
+	@include hover {
+		color: $link-hover-color;
+	}
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	// alt text style if is img broken
+	font-family: $font-family-default!important;
+	font-size: 0.889rem!important;
+  text-transform: initial!important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $font-family-display;
+	margin: 0 0 0.67em 0;
+}
+
+h1 {
+	@include font-sizing(1.5, 2);
+}
+
+h2 {
+	@include font-sizing(1.5, 1.3);
+}
+
+h3 {
+	@include font-sizing(1.3, 1.3);
+}
+
+h4 {
+	@include font-sizing(1, 1);
+}
+
+h5 {
+	@include font-sizing(0.8, 1);
+}
+
