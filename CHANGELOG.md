@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/crowscript/gulp-starter/compare/v1.2.1...v1.3.0) (2021-03-10)
+
+
+### Features
+
+* Add image.html Picture source srcset ([4e79f2d](https://github.com/crowscript/gulp-starter/commit/4e79f2d1cf81d8ba2bd4f49e61e7cccd0c71c7ed))
+
 ### [1.2.1](https://github.com/crowscript/gulp-starter/compare/v1.2.0...v1.2.1) (2021-03-10)
 
 
