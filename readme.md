@@ -13,11 +13,11 @@ One Paragraph of project description goes here.
 - [Getting Started](#getting-started)
 - [Built With](#built-with)
 - [Modifications](#modifications)
-- [Frontend Helper Tools](#frontend-helper-tools)
 - [How to use](#how-to-use)
 	- [Mixins](#mixins)
 	- [Gulp](#gulp)
 - [Hint](#hint)
+- [Frontend Helper Tools](#frontend-helper-tools)
 - [Changelog](#changelog)
 - [Authors](#authors)
 - [License](#license)
@@ -75,44 +75,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### Normalize
 - Remove line-height [line 12]
 - Removed h1 style [line 40]
-
-## Frontend Helper Tools
-
-### Websites
-- [PX to REM](http://pxtoem.com/)
-- [CSS color Name](https://chir.ag/projects/name-that-color/#6195ED) 
-- [Favicon Generator](http://www.prodraw.net/favicon/index.php)
-- [Lorem Ipsum Text](https://www.loremipsum.de/)
-- [Lorem Pictures](https://picsum.photos/)
-- [Free Stock Photos](https://www.pexels.com/)
-- [Send files](https://en.fromsmash.com/)
-- [Font TTF to Web Font](https://transfonter.org/)
-- [Check online web technology](https://www.wappalyzer.com/)
-- [Percentage Calculator](https://percentagecalculator.net/)
-- [Compress PDF](https://www.ilovepdf.com/)
-- [Markdown Editor](https://dillinger.io/)
-- [Calculate Aspect Ratio](https://calculateaspectratio.com/)
-
-### Google Extensions
-- [Glines](https://chrome.google.com/webstore/detail/glines-chrome-extension/hplhjkmgokoamhihlfgaddljbippfeje)
-- [My Ruler](https://chrome.google.com/webstore/detail/my-ruler/iobnfmmhgefpdgcdpocaceafmoocljnb)
-- [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
-- [Live editor for CSS, Less & Sass](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol)
-- [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
-- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
-- [Page Marker](https://chrome.google.com/webstore/detail/jfiihjeimjpkpoaekpdpllpaeichkiod)
-- [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
-- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-- [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
-- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
-- [Kontrast - WCAG Contrast Checker](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk)
-- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp)
-- [Measure-it](chrome://extensions/?id=jocbgkoackihphodedlefohapackjmna)
-- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-- [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
-- [Leaf: Simple Notes](https://chrome.google.com/webstore/detail/leaf-simple-notes/fobdcbnndmloacbikchffcpjinbkadei)
-- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en%20)
 
 ## How to use
 
@@ -173,6 +135,44 @@ CSS giving class name method - [CSS color Name](https://chir.ag/projects/name-th
 
 ### screen-reader-text
 [Screen reader text](https://make.wordpress.org/accessibility/handbook/markup/the-css-class-screen-reader-text/)
+
+## Frontend Helper Tools
+
+### Websites
+- [PX to REM](http://pxtoem.com/)
+- [CSS color Name](https://chir.ag/projects/name-that-color/#6195ED) 
+- [Favicon Generator](http://www.prodraw.net/favicon/index.php)
+- [Lorem Ipsum Text](https://www.loremipsum.de/)
+- [Lorem Pictures](https://picsum.photos/)
+- [Free Stock Photos](https://www.pexels.com/)
+- [Send files](https://en.fromsmash.com/)
+- [Font TTF to Web Font](https://transfonter.org/)
+- [Check online web technology](https://www.wappalyzer.com/)
+- [Percentage Calculator](https://percentagecalculator.net/)
+- [Compress PDF](https://www.ilovepdf.com/)
+- [Markdown Editor](https://dillinger.io/)
+- [Calculate Aspect Ratio](https://calculateaspectratio.com/)
+
+### Google Extensions
+- [Glines](https://chrome.google.com/webstore/detail/glines-chrome-extension/hplhjkmgokoamhihlfgaddljbippfeje)
+- [My Ruler](https://chrome.google.com/webstore/detail/my-ruler/iobnfmmhgefpdgcdpocaceafmoocljnb)
+- [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+- [Live editor for CSS, Less & Sass](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol)
+- [Lorem Ipsum Generator](https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb)
+- [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca)
+- [Page Marker](https://chrome.google.com/webstore/detail/jfiihjeimjpkpoaekpdpllpaeichkiod)
+- [Screen Reader](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn)
+- [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+- [Adblock for Youtube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+- [Kontrast - WCAG Contrast Checker](https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp)
+- [Measure-it](chrome://extensions/?id=jocbgkoackihphodedlefohapackjmna)
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+- [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg)
+- [Leaf: Simple Notes](https://chrome.google.com/webstore/detail/leaf-simple-notes/fobdcbnndmloacbikchffcpjinbkadei)
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en%20)
 
 ## Changelog
 All notable changes to this project will be documented in [CHANGELOG](CHANGELOG.md) file.
