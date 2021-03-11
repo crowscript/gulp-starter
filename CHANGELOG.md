@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/crowscript/gulp-starter/compare/v1.5.0...v1.6.0) (2021-03-11)
+
+
+### Features
+
+* Add Inter Font and fix fonts path ([999ae53](https://github.com/crowscript/gulp-starter/commit/999ae53c81201ca55a60c4bf9f14d0fb3771b62b))
+
 ## [1.5.0](https://github.com/crowscript/gulp-starter/compare/v1.4.1...v1.5.0) (2021-03-11)
 
 
