@@ -84,7 +84,6 @@ These instructions will get you a copy of the project up and running on your loc
 2. max-width: `@include breakpoint-down(md) {}`
 3. min-width and max-width: `@include breakpoint-between(sm, md) {}`
 
-
 #### Font size
 ```
 h2 {
@@ -96,12 +95,17 @@ h2 {
 2. `@include hover-focus`
 3. `@include focus`
 
-
 ### Gulp
 #### Gulp-file-include
 `@@include('./partials/head.html')`
-- [npm package gulp-file-include](https://dev.to/caiojhonny/html-includes-with-gulp-js-2def)
+- [npm package gulp-file-include](https://www.npmjs.com/package/gulp-file-include)
 - [Blog HTML includes with Gulp.js](https://dev.to/caiojhonny/html-includes-with-gulp-js-2def)
+
+#### Gulp responsive and Image srcset
+For setup image `picture` tag, check file `src/html/partials/image.html`. Setup rendering all sizes of image, check *Responsive Task* in `gulpfile.js`.
+- [Gulp responsive](https://github.com/mahnunchik/gulp-responsive/blob/HEAD/examples/advanced.md)
+- [npm gulp-responsive](https://www.npmjs.com/package/gulp-responsive)
+Be aware of remove all unnecessary `srcset` from `image.html` and from *Responsive Task* in `gulpfile.js`
 
 ### Conventional Commits
 1. Run `git add .` 
@@ -125,7 +129,7 @@ Types of commit:
 ## Hint
 ### Fonts
 - Converting ttf to woff file extension [TTF to Web Font](https://transfonter.org/)
-- Only Woff font extansion is applied, other formats removed - reason --> [Optimize Fontawesome](https://blog.webjeda.com/optimize-fontawesome/)
+- Only Woff font extansion is applied, other formats removed - reason --> [Optimize Fontawesome](https://blog.webjeda.com/optimize-fontawesome/#step-2-remove-unnecessary-files)
 
 ### CSS Color Names
 CSS giving class name method - [CSS color Name](https://chir.ag/projects/name-that-color/#6195ED) 
