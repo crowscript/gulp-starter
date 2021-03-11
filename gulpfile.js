@@ -163,8 +163,8 @@ exports.default = series(
 	// responsiveTask,
   imgTask,
   fontsTask,
-  browsersyncServe,
-  watchTask
+  // browsersyncServe,
+  // watchTask
 );
 
 // Scss
