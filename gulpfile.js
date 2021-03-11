@@ -112,8 +112,8 @@ exports.default = series(
   imgTask,
   fontsTask,
 	filesTask,
-  browsersyncServe,
-  watchTask
+  // browsersyncServe,
+  // watchTask
 );
 
 // Scss
