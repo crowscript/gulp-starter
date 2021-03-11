@@ -1,6 +1,6 @@
 {
   "name": "gulp-frontend-starter-for-wp",
-  "version": "1.4.1",
+  "version": "1.5.0",
   "description": "This is a starter for Frontend building before convert to Wordpress",
   "main": "index.js",
   "scripts": {

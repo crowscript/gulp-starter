@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/crowscript/gulp-starter/compare/v1.4.1...v1.5.0) (2021-03-11)
+
+
+### Features
+
+* Creating Dist directory ([91ee806](https://github.com/crowscript/gulp-starter/commit/91ee8061a3901720f2b5047ecc420659544a44af))
+
 ### [1.4.1](https://github.com/crowscript/gulp-starter/compare/v1.4.0...v1.4.1) (2021-03-11)
 
 
