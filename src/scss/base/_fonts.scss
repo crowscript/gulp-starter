@@ -4,6 +4,16 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('./assets/fonts/OpenSans-Regular.woff') format('woff');
+  src: url('../fonts/OpenSans-Regular.woff') format('woff');
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Inter Black';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/Inter-Black.woff') format('woff');
+  font-display: swap;
+}
+
+
