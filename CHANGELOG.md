@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.3](https://github.com/crowscript/gulp-starter/compare/v1.6.2...v1.6.3) (2021-03-11)
+
+
+### Bug Fixes
+
+* Correct responsiveTask sizes ([9b8c946](https://github.com/crowscript/gulp-starter/commit/9b8c9467fdf604dd9a35bed87d92ce12408a71c4))
+* Lighthouse Serves images with low resolution ([5ad9018](https://github.com/crowscript/gulp-starter/commit/5ad90188b524364d71cd08a09d422d0f70d0cc41))
+
 ### [1.6.2](https://github.com/crowscript/gulp-starter/compare/v1.6.1...v1.6.2) (2021-03-11)
 
 
