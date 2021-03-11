@@ -51,11 +51,13 @@ function responsiveTask(){
       responsive({
           '*': [
 						{width: 319, rename: {suffix: '-319w'}},
+						{width: 328, rename: {suffix: '-328w'}},
 						{width: 368, rename: {suffix: '-386w'}},
 						{width: 466, rename: {suffix: '-466w'}},
 						{width: 631, rename: {suffix: '-631w'}},
 						{width: 859, rename: {suffix: '-859w'}},
 						{width: 928, rename: {suffix: '-928w'}},
+						{width: 984, rename: {suffix: '-984w'}},
 						{width: 1108, rename: {suffix: '-1108w'}},
 						{width: 1288, rename: {suffix: '-1288w'}}
             ]
@@ -112,8 +114,8 @@ exports.default = series(
   imgTask,
   fontsTask,
 	filesTask,
-  // browsersyncServe,
-  // watchTask
+  browsersyncServe,
+  watchTask
 );
 
 // Scss
