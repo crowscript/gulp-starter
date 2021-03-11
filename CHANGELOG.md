@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/crowscript/gulp-starter/compare/v1.3.0...v1.4.0) (2021-03-11)
+
+
+### Features
+
+* Gulp responsive cutter images ([4b3d9e9](https://github.com/crowscript/gulp-starter/commit/4b3d9e98cf1185cfb8f2f0db73d9e0f7a1ca754d))
+
 ## [1.3.0](https://github.com/crowscript/gulp-starter/compare/v1.2.1...v1.3.0) (2021-03-10)
 
 
