@@ -3,6 +3,7 @@
 One Paragraph of project description goes here.
 
 ## Next Steps
+- Critical CSS
 - The Golden Ratio and REMS [CSS tricks](https://css-tricks.com/rems-ems/#comment-1540876)
 - [Husky](https://typicode.github.io/husky/#/)
 
@@ -214,6 +215,7 @@ This toolkit is based on the work of the following fine people & projects.
 - [Auto changelog](https://www.freecodecamp.org/news/a-beginners-guide-to-git-what-is-a-changelog-and-how-to-generate-it/)
 - [Ericportis srcset sizes](https://ericportis.com/posts/2014/srcset-sizes/)
 - [Medium/@woutervanderzee responsive images](https://medium.com/@woutervanderzee/responsive-images-with-srcset-and-sizes-fc434845e948)
+- [Complete guide for responsive images](https://elad.medium.com/a-complete-guide-for-responsive-images-b13db359c6c7)
 
 Provide proper credits, shoutouts, and honorable mentions here. Also provide links to relevant repositories, blog posts, or contributors worth mentioning.
 
