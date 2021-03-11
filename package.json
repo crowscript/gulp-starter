@@ -21,6 +21,7 @@
     "gulp-file-include": "^2.3.0",
     "gulp-imagemin": "^7.1.0",
     "gulp-postcss": "^9.0.0",
+    "gulp-responsive": "^3.0.1",
     "gulp-sass": "^4.1.0",
     "gulp-terser": "^1.4.0",
     "postcss": "^8.1.2",
