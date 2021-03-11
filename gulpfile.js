@@ -160,7 +160,7 @@ exports.default = series(
 	includeHTML,
   scssTask,
   jsTask,
-	// responsiveTask,
+	responsiveTask,
   imgTask,
   fontsTask,
   // browsersyncServe,
