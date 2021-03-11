@@ -18,7 +18,7 @@ function includeHTML(){
     '!head.html'
     ])
     .pipe(fileinclude({prefix: '@@', basepath: '@file'}))
-    .pipe(dest('.'));
+    .pipe(dest('dist/'));
 }
 
 // Sass Task
@@ -27,27 +27,21 @@ function scssTask(){
     .pipe(sass())
     .pipe(postcss([cssnano(), autoprefixer()]))
     .pipe(concat('style.css'))
-    .pipe(dest('.'));
+    .pipe(dest('dist/assets/css'));
 }
 
 // JavaScript Task
 function jsTask(){
   return src('src/js/main.js')
     .pipe(terser())
-    .pipe(dest('assets/js'));
+    .pipe(dest('dist/assets/js'));
 }
 
 // Optimize Images
 function imgTask(){
   return src('src/img/**/*')
     .pipe(imagemin())
-    .pipe(dest('assets/img'));
-}
-
-// Fonts Task
-function fontsTask(){
-  return src('src/fonts/*')
-    .pipe(dest('assets/fonts'));
+    .pipe(dest('dist/assets/img'));
 }
 
 // Responsive Task
@@ -73,14 +67,26 @@ function responsiveTask(){
           errorOnEnlargement: false
       })
     )
-    .pipe(dest('assets/img/srcset'));
+    .pipe(dest('dist/assets/img/srcset'));
+}
+
+// Fonts Task
+function fontsTask(){
+  return src('src/fonts/*')
+    .pipe(dest('dist/assets/fonts'));
+}
+
+// Fonts Task
+function filesTask(){
+  return src('src/files/*')
+    .pipe(dest('dist/'));
 }
 
 // Browsersync Tasks
 function browsersyncServe(cb){
   browsersync.init({
     server: {
-      baseDir: '.'
+      baseDir: 'dist/'
     }
   });
   cb();
@@ -105,8 +111,9 @@ exports.default = series(
 	responsiveTask,
   imgTask,
   fontsTask,
-  // browsersyncServe,
-  // watchTask
+	filesTask,
+  browsersyncServe,
+  watchTask
 );
 
 // Scss
