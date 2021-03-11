@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.4.1](https://github.com/crowscript/gulp-starter/compare/v1.4.0...v1.4.1) (2021-03-11)
+
+
+### Bug Fixes
+
+* Image size srcset correct sizes and remove not used after testing Borwserstock ([876abfe](https://github.com/crowscript/gulp-starter/commit/876abfe6f539de53b5b53f6cc0bddda0e5feade0))
+
 ## [1.4.0](https://github.com/crowscript/gulp-starter/compare/v1.3.0...v1.4.0) (2021-03-11)
 
 
