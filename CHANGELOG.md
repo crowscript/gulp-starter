@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.2](https://github.com/crowscript/gulp-starter/compare/v1.6.1...v1.6.2) (2021-03-11)
+
+
+### Bug Fixes
+
+* Correct responsiveTask sizes ([c88dd52](https://github.com/crowscript/gulp-starter/commit/c88dd52c61b659f382cb65b313045da6818c3db2))
+
 ### [1.6.1](https://github.com/crowscript/gulp-starter/compare/v1.6.0...v1.6.1) (2021-03-11)
 
 
