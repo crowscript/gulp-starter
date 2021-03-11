@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/crowscript/gulp-starter/compare/v1.6.0...v1.6.1) (2021-03-11)
+
+
+### Bug Fixes
+
+* SEO description fill ([cb088da](https://github.com/crowscript/gulp-starter/commit/cb088dae2a4001fc9c489d2e033c91b0d2e2b417))
+
 ## [1.6.0](https://github.com/crowscript/gulp-starter/compare/v1.5.0...v1.6.0) (2021-03-11)
 
 
