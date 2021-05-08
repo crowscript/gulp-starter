@@ -1,6 +1,10 @@
 /* ==== Mixins ==== */
 
 // Media Queries
+// min-width: @include breakpoint(md) {}
+// max-width: @include breakpoint-down(md) {}
+// min-width and max-width: @include breakpoint-between(sm, md) {}
+
 // min-width
 @mixin breakpoint($breakpoint) {
 
